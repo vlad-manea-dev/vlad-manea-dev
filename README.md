@@ -1,16 +1,25 @@
-## Hi there 👋
+ 👋 hi, i'm Vlad
+ 
+i'm a 19y/o builder and cs & business student at trinity college dublin.
 
-<!--
-**vlad-manea-dev/vlad-manea-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm interested in the intersection of ml and physical systems.
+if an idea pops into my head, chances are i'll build it and ship it.
 
-Here are some ideas to get you started:
+currently
+  - founder in residence @ alpine valley
+  - state estimation engineer @ formula trinity
+  - head of technology @ tes
+  - co-founder @ opscura (opscura.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+previously
+- 2026 Spring claude builder hackathon @ TCD — overall winner 
+- charm-eu ideathon — 1st place across 8 universities
+- tes dragons' den — swept all 3 awards with opscura
+- 625/625 leaving certificate, trinity entrance exhibition award
+
+most of my repos are private but you can read more about my projects at vladmanea.com !
+contact details also on my personal site
+
+stack: c++, python, java, react, typescript, ros, js/ts, tailwind
+
+
